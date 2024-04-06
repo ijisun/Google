@@ -1,0 +1,12 @@
+.navbar {
+  float: right;
+  margin: 15px;
+}
+.nav-item {
+  text-decoration: none;
+  color: inherit;
+  margin-right: 15px;
+}
+.nav-item:hover {
+  text-decoration: underline;
+}
